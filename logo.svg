@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="logo_1.1.svg"
-   inkscape:export-filename="/home/scott/Documents/git/mopify/logo/logo_1.0.png"
+   sodipodi:docname="logo_1.2.svg"
+   inkscape:export-filename="/home/scott/Documents/git/mopify/logo/logo_1.2.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="104.43739"
-     inkscape:cy="140.06976"
+     inkscape:cx="110.14045"
+     inkscape:cy="126.19822"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      showguides="true"
      inkscape:window-width="1855"
@@ -40,13 +40,14 @@
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:object-nodes="false"
+     inkscape:object-nodes="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:snap-others="false"
-     inkscape:snap-nodes="false">
+     inkscape:snap-nodes="true"
+     inkscape:snap-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid3364"
@@ -71,12 +72,18 @@
      inkscape:label="bg"
      transform="translate(-120,-202.3622)">
     <rect
-       style="display:inline;fill:#808080;fill-opacity:1;stroke:none"
+       style="display:inline;fill:#808080;fill-opacity:0;stroke:none"
        id="rect4297"
        width="240"
        height="240"
        x="120"
        y="202.3622" />
+    <circle
+       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4448"
+       cx="240"
+       cy="322.36218"
+       r="120" />
   </g>
   <g
      inkscape:label="Layer 1"
